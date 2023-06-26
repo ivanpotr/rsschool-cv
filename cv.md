@@ -44,4 +44,4 @@ Educational projects carried out within the framework of the training course "Da
 
 # English
 
-* **A2** - A2
+* **А2 (Elementary)**
