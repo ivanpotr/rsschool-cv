@@ -33,7 +33,7 @@ function peopleWithAgeDrink(old) {
 # Experience
 
 Educational projects carried out within the framework of the training course "Data Analyst" Yandex.Practicum. 
-[**ivanpotr/practicum-project:**](https://github.com/ivanpotr/practicum-project)
+* [**ivanpotr/practicum-project**](https://github.com/ivanpotr/practicum-project)
 
 # Education
 
