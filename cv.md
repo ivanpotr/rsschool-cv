@@ -30,4 +30,19 @@ function peopleWithAgeDrink(old) {
 };
 ```
 
+# Experience
 
+Educational projects carried out within the framework of the training course "Data Analyst" Yandex.Practicum
+[**ivanpotr/practicum-project:**](https://github.com/ivanpotr/practicum-project)
+
+# Education
+
+* **Vladimir State University named after Alexander and Nikolay Stoletovs (VLSU)**
+    * Computing Machinery, Suites, Systems and Networks
+* **Yandex.Practicum**
+    * [Data analyst](https://practicum.yandex.ru/data-analyst/)
+
+# Languages
+
+* **Russian** - native speaker.
+* **English** - A2 (B1 in process...)
