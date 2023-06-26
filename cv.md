@@ -18,5 +18,16 @@ I am 33 years old, I work as a system administrator. I have good interpersonal s
 * Python(Pandas), SQL
 * Windows OS, Linux(Ubuntu)
 
+# Code Examples
+
+```
+function peopleWithAgeDrink(old) {
+  if (old < 14) drink = 'toddy'
+  else if (old < 18) drink = 'coke'
+  else if (old < 21) drink = 'beer'
+  else drink = 'whisky'
+    return 'drink ' + drink;
+};
+```
 
 
