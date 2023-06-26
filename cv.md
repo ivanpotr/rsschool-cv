@@ -42,7 +42,6 @@ Educational projects carried out within the framework of the training course "Da
 * **Yandex.Practicum**
     * [Data analyst](https://practicum.yandex.ru/data-analyst/)
 
-# Languages
+# English
 
-* **Russian** - native speaker.
-* **English** - A2 (B1 in process...)
+* **A2** - A2
